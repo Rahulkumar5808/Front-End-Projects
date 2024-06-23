@@ -1,1 +1,1 @@
-# Front-End-Projects
+This is a clone webpage of Amazon.com Homepage. 
